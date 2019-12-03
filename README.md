@@ -9,4 +9,4 @@ The video below demonstrates the issue. Watch the right side of the code complet
 ![FixIDEScrollBar bug](https://github.com/chuacw/10_3_3-FixIDEScrollBar/blob/master/10-3-3CodeCompleteScrollBarBug.gif)
 
 # Installation instructions
-Download the BPL, and place it in C:\Users\Public\Documents\Embarcadero\Studio\20.0\Bpl or a location accessible to the IDE. Install the BPL using ![Component, Install Package](http://docwiki.embarcadero.com/RADStudio/Rio/en/Installing_Component_Packages).
+Download the BPL, and place it in C:\Users\Public\Documents\Embarcadero\Studio\20.0\Bpl or a location accessible to the IDE. Install the BPL using [Component, Install Package](http://docwiki.embarcadero.com/RADStudio/Rio/en/Installing_Component_Packages).
